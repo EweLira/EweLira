@@ -1,6 +1,6 @@
-### 👋 Oii! 👋
+### Oii! 
 
-Estudante de Sistemas para Internet na Universidade Católica de Pernambuco.
+
 
 <div align="center">
   <a href="https://github.com/EweLira">

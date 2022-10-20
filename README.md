@@ -1,7 +1,19 @@
-### 
+<h1>Ewellyn Lira<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p> Oi, meu nome é Ewellyn, e sou estudante de Sistemas para Internet na UNICAP<p>
+<p> Atualmente estou estudando para me especializar em React, JavaScript e Node.<p>
 
+  
+## 🧠 Minha Stack
+ Essas são algumas das tecnologias que uso no dia a dia
+<div align="center">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
+  </div>
 
+## 📈 Estatísticas
 <div align="center">
   <a href="https://github.com/EweLira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EweLira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

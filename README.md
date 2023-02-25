@@ -1,7 +1,14 @@
-<h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey 👋, eu sou Ewellyn Lira</h1>
+<h3 align="center">Desenvolvedora</h3>
 
-<p> Oi, meu nome é Ewellyn, e sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco.<p>
-<p>  Atuo como desenvolvedora, atualmente estou estudando para me especializar em ReactJS, JavaScript e NodeJs.<p>
+<h6 align="left">
+  <p>Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco.</p>
+  
+  <p>Atualmente estou estudando para me especializar em ReactJS, JavaScript e NodeJs.</p>
+
+</h6>
+
+
 
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
 
@@ -34,7 +41,7 @@
   <a href = "mailto:ewellynflira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ewellyn-lira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5581995925667">
-    <a href="https://portfolio-ewelira.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
+    <a href="https://portfolio2023-ewelira.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 
 </div>

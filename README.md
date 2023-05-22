@@ -4,7 +4,7 @@
 <h6 align="left">
   <p>Sou estudante de Sistemas para Internet na Universidade Católica de Pernambuco.</p>
   
-  <p>Atualmente estou estudando para me especializar em ReactJS, JavaScript e NodeJs.</p>
+ 
 
 </h6>
 
